@@ -17,15 +17,15 @@ To have the files on your pc just clone this repo:
 
 1) select the location where you want to store the file in your terminal
 
-   '''bash
+   ```bash
    cd Projects/resume
-   '''
+   ```
 
 2) clone the repo
 
-   '''bash
+   ```bash
    git clone https://github.com/poligenius/LaTeX_resume.git
-   '''
+   ```
 
 After you have loaded the files you will need only to change the content of the files in order to write whatever you want in your resume.
 It is really intuitive, in case you need more info on what to modify you can check the following sections.
