@@ -1,32 +1,47 @@
-# AltaCV, yet another LaTeX CV/Résumé class
+# AltaCV, LaTeX CV/Résumé class
 
-v1.1 (21 November 2016), by LianTze Lim (liantze@gmail.com)
+v1.1 (25 July 2023), by Marco Marini (poligeniushelp@gmail.com)
 
-(Thanks to [Nur](https://github.com/nurh) for the name.)
+## Intro
+This repo is to give you, LaTeX lover, a cool idea for a resume.
+You can use this template to create in few minutes your own personal cv.
 
-It all started with this:
+Below you can fine a selection of point to follow to personalize your cv, have fun.
+For any question you can write me at [poligeniushelp@gmail.com](mailto:poligeniushelp@gmail.com).
 
-[<img src="tweet-that-started-this.png" width="500px">]
-(https://twitter.com/Leonduck/status/764281546408923136)
+## Editor
+In case you don't know LaTeX, don't worry, you can use [Overleaf](https://overleaf.com), it is a cool online free editor,
+just create an account, create a new project and load the files inside this repo.
 
-Leonardo was talking about a [résumé of Marissa Mayer that Business Insider put together](http://www.businessinsider.my/a-sample-resume-for-marissa-mayer-2016-7/) using [enhancv.com](https://enhancv.com).
-I _knew_ I had to do something about it. And so AltaCV was born.
+To have the files on your pc just clone this repo:
 
-## Samples
+1) select the location where you want to store the file in your terminal
 
-This is how the re-created résumé looks like ([view/open on Overleaf](https://www.overleaf.com/read/gtqfpbwncfvp)):
+   '''bash
+   cd Projects/resume
+   '''
 
-<img src="mmayer.png" alt="Marissa Mayer's résumé, re-created with AltaCV" width="600px">
+2) clone the repo
 
-Though if you're creating your own CV/résumé, you'd probably prefer using the basic template ([view/open on Overleaf](https://www.overleaf.com/read/trgqjpwnmtgv)):
+   '''bash
+   git clone https://github.com/poligenius/LaTeX_resume.git
+   '''
 
-<img src="sample.png" alt="sample barebones AltaCV template" width="600px">
-
+After you have loaded the files you will need only to change the content of the files in order to write whatever you want in your resume.
+It is really intuitive, in case you need more info on what to modify you can check the following sections.
 
 ## Requirements and Compilation
 
+* At line 76 of main you can insert your personal info
+* page1sidebar.tex contains the code for the right part of the cv
+* remember to substitute the image with your photo and use a png format
+* If you would like to change the colors go at line 48 of main.tex
 * AltaCV uses [`fontawesome`](http://www.ctan.org/pkg/fontawesome) and [`academicons`](http://www.ctan.org/pkg/academicons); they're included in both TeX Live 2016 and MikTeX 2.9.
 * Loading `academicons` is optional: enable it by adding the `academicons` option to `\documentclass`.
 * Can now be compiled with pdflatex, XeLaTeX and LuaLaTeX!
 * However if you're using `academicons`, you _must_ use either XeLaTeX or LuaLaTeX. If the doc then compiles but the icons don't show up in the output PDF, try compiling with LuaLaTeX instead.
 * The samples here use the [Lato](http://www.latofonts.com/lato-free-fonts/) font.
+
+## Donations
+The code is here for you to be read, edited, modified, reused, for free, do whatever you want!
+However, if you'd like to [offer me](https://paypal.me/MarcoMariniING?country.x=IT&locale.x=it_IT) a coffee or a beer, then cheers! xD
