@@ -11,8 +11,7 @@ Below you can fine a selection of point to follow to personalize your cv, have f
 For any question you can write me at [poligeniushelp@gmail.com](mailto:poligeniushelp@gmail.com).
 
 ## Resume Look
-
-[MarcoMarini_resume.pdf](https://github.com/poligenius/LaTeX_resume/files/12837838/MarcoMarini_resume.pdf)
+![Screenshot 2023-10-07 alle 15 01 09](https://github.com/poligenius/LaTeX_resume/assets/48245313/8e26f6ce-0f2d-4018-98ce-39d80d6e98db)
 
 ## Editor
 In case you don't know LaTeX, don't worry, you can use [Overleaf](https://overleaf.com), it is a cool online free editor,
