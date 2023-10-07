@@ -12,7 +12,7 @@ For any question you can write me at [poligeniushelp@gmail.com](mailto:poligeniu
 
 ## Resume Look
 
-![Screenshot 2023-07-25 alle 23 42 57](https://github.com/poligenius/LaTeX_resume/assets/48245313/9789ed88-423a-4864-bf12-e00f7091fedd)
+[MarcoMarini_resume.pdf](https://github.com/poligenius/LaTeX_resume/files/12837838/MarcoMarini_resume.pdf)
 
 ## Editor
 In case you don't know LaTeX, don't worry, you can use [Overleaf](https://overleaf.com), it is a cool online free editor,
