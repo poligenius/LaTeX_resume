@@ -71,6 +71,7 @@
 \newcommand{\instagramsymbol}{\faInstagram}
 \newcommand{\carsymbol}{\faCar}
 \newcommand{\presentsymbol}{\faCalendar}
+\newcommand{\salarysymbol}{\faMoney}
 
 \newcommand{\printinfo}[2]{\mbox{\textcolor{accent}{#1}\hspace{0.5em}#2\hspace{2em}}}
 
@@ -89,6 +90,7 @@
 \newcommand{\instagram}[1]{\printinfo{\instagramsymbol}{#1}}
 \newcommand{\car}[1]{\printinfo{\carsymbol}{#1}}
 \newcommand{\present}[1]{\printinfo{\presentsymbol}{#1}}
+\newcommand{\salary}[1]{\printinfo{\salarysymbol}{#1}}
 
 \newcommand{\personalinfo}[1]{\def\@personalinfo{#1}}
 
