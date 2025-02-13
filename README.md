@@ -7,11 +7,11 @@ v1.1 (25 July 2023), by Marco Marini (poligeniushelp@gmail.com)
 This repo is to give you, LaTeX lover, a cool idea for a resume.
 You can use this template to create in few minutes your own personal cv.
 
-Below you can fine a selection of point to follow to personalize your cv, have fun.
+Below you can find a selection of point to follow to personalize your cv, have fun.
 For any question you can write me at [poligeniushelp@gmail.com](mailto:poligeniushelp@gmail.com).
 
 ## Resume Look
-![Screenshot 2023-12-12 alle 20 11 59](https://github.com/poligenius/LaTeX_resume/assets/48245313/2f275e6f-24b3-4c78-9e07-a1a1647f61ab)
+<img width="413" alt="Screenshot 2025-02-14 alle 00 03 50" src="https://github.com/user-attachments/assets/1d6eb1bb-51cd-4048-8b7c-9a77616ef318" />
 
 
 ## Editor
